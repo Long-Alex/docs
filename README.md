@@ -6,11 +6,12 @@ Use the starter kit to get your docs deployed and ready to customize.
 
 - Guide pages
 - Navigation
-- Customizations
-- API reference pages
+- CustomizationsAPI reference pages
 - Use of popular components
 
 [**Follow the full quickstart guide**](https://starter.mintlify.com/quickstart)
+
+![Hero Light Pn](/images/hero-light.png)
 
 ## Development
 
